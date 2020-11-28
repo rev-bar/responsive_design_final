@@ -15,6 +15,11 @@
       width: 100%;
   }
 
+  .projects h2{
+      margin: 0;
+      border-bottom:solid rgb(143, 143, 143) 1px ;
+      padding: 1% 0 1% 0;
+  }
   .project{
     margin: 1%;
   }
@@ -26,6 +31,19 @@
     box-shadow: none;
     border-radius: 0px;
     background-color: rgb(185, 185, 185);
+  }
+
+  footer{
+      width: 100%;
+      background-color: black;
+      text-align: center;
+      color: white;
+      font-size: 0.6em;
+      padding: 0.9%;
+      margin-top:1%;
+  }
+  footer>a{
+      color:white;
   }
   
 
