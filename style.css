@@ -11,6 +11,22 @@
     flex-wrap: wrap;
   }
 
+  img{
+      width: 100%;
+  }
+
+  .project{
+    margin: 1%;
+  }
+
+  button{
+    width: 100%;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    background-color: rgb(185, 185, 185);
+  }
   
 
 /* Mobile First */
